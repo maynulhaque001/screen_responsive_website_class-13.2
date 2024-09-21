@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.Box {
+  height: 100vh;
+  background-color: tomato;
+}
+
+.text {
+  font-size: 50px;
+  color: #fff;
+}
